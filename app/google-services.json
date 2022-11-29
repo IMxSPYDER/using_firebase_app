@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263611078027",
+    "firebase_url": "https://devarsh-c6e45-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "devarsh-c6e45",
+    "storage_bucket": "devarsh-c6e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263611078027:android:6ca89d17ca7a71fce68b8e",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263611078027-tpu61610lvkcuj4dmc1hqcc21hd6hao8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLztaS-2lgFiAVy0w6pyexMXGA7rE0O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263611078027-tpu61610lvkcuj4dmc1hqcc21hd6hao8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
